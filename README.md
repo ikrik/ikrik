@@ -7,7 +7,7 @@ I have **10+ years of experience** in web development, specializing in **React.j
 ## What I'm Working On  
 Here are some of the exciting projects I'm currently involved in:  
 
-- **Angular 17** – Front-end development in the **pharmaceutical/molecule-indications** industry  
+- **Angular 19** – Front-end development in the **pharmaceutical/molecule-indications** industry  
 - **React Native & NestJS** – Full-stack TypeScript development on fitness industry
 - **Electron & Next.js** – Desktop app development with **TypeScript** & **WebSockets** for Astro-photography 
 - **React** – Front-end development using **React**, **Typescript** & **Redux** for a **banking-auctions** platform
