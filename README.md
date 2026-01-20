@@ -17,7 +17,7 @@ Some of the projects I’m currently involved in:
 
 ## Tech Stack  
 🔧 **Languages**: TypeScript, JavaScript  
-🛠️ **Front-End**: React, Next.js, Angular, Component architecture, Design Systems, Storybook, Tailwind, Radix / shadcn-ui, Material UI  
+🛠️ **Front-End**: React, Next.js, Angular, Storybook, Tailwind, Radix UI / Shadcn/UI, Material UI  
 📱 **Mobile**: React Native  
 💻 **Back-End**: NestJS, Express.js, Node.js, Fastify  
 🖥️ **Desktop**: Electron  
@@ -30,5 +30,6 @@ Some of the projects I’m currently involved in:
 - Strong collaboration with Product & UX
 <br>
 <br>
-Get in Touch  
-💼 [LinkedIn](https://www.linkedin.com/in/krikor-tsakmatzian/) | ✉️ Reach out via GitHub!  
+Get in Touch
+<br>
+LinkedIn: https://www.linkedin.com/in/krikor-tsakmatzian/
